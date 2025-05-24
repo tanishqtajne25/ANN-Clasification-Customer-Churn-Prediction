@@ -10,3 +10,5 @@ Features
 - Scales input features using a pre-fitted `StandardScaler`
 - Interactive UI built with Streamlit app takes user input to display results
 - Real-time results display
+
+I have made project under the guidence of Udemy Instructor Krrish Naik as part of the course
